@@ -12,6 +12,8 @@
 	// zmiana 13 PROF-6001
 	// zmiana 14 PROF-6002
 	// zmiana 15 PROF-6003
+	// zmiana 16 PROF-6003
+	// zmiana 17 PROF-6003
 	
 	
 	
@@ -20,4 +22,4 @@
 	
 	
 	
-	set a=14
+	set a=141, b=134
