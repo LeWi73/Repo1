@@ -6,13 +6,9 @@
 	// PROF-4001	zmiana 1D user 1
 	// PROF-4001	zmiana 1B user 1
 	// PROF-6002	zmiana 2B user 2
-<<<<<<< Upstream, based on master
 	// PROF-5001	zmiana 1C user 1 - branch PROF5001
 	// PROF-5201	zmiana 2D user 1 - branch PROF5201
 	// PROF-5202	zmiana 2E user 1 - branch PROF5202
 	// PROF-5002	zmiana 1D user 1 - branch PROF5002
-=======
-	// PROF-5001	zmiana 1C user 1 - branch PROF5001
-	// PROF-5002	zmiana 1D user 1 - branch PROF5002
 	// PROF-5003 	zmiana 1E user 1 - branch PROF5002
->>>>>>> ac226e6 PROF-5003	zmiana 1E w branch PROF5002
+
